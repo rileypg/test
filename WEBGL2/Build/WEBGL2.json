@@ -1,0 +1,16 @@
+{
+"companyName": "RileyMatthijsLoserCompany",
+"productName": "Cancel",
+"productVersion": "0.2",
+"dataUrl": "WEBGL2.data.unityweb",
+"wasmCodeUrl": "WEBGL2.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEBGL2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
